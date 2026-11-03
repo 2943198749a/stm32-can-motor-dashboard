@@ -1,0 +1,16 @@
+build/
+Objects/
+Listings/
+*.o
+*.obj
+*.axf
+*.hex
+*.map
+*.crf
+*.dep
+*.uvoptx
+*.uvguix.*
+/lvgl-master/
+*.htm
+*.build_log.*
+*.uvprojx.lvgl_backup
