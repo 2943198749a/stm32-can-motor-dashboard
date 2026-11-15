@@ -14,3 +14,26 @@ Listings/
 *.htm
 *.build_log.*
 *.uvprojx.lvgl_backup
+
+# Local build outputs, credentials and learning artifacts
+**/__pycache__/
+**/tmp/
+**/backup/
+**/output/
+**/runtime/
+*.pyc
+*.d
+*.lnp
+*.lst
+*.elf
+*.kmodel
+*.bin
+*.log
+*.bak
+*.zip
+*.docx
+*.pdf
+*.pro.user*
+*.uvguix.*
+.env*
+*_local.h
